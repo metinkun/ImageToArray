@@ -1,0 +1,16 @@
+c:\users\monster\documents\visual studio 2017\Projects\imageToArray\imageToArray\bin\Debug\imageToArray.exe.config
+c:\users\monster\documents\visual studio 2017\Projects\imageToArray\imageToArray\bin\Debug\imageToArray.exe
+c:\users\monster\documents\visual studio 2017\Projects\imageToArray\imageToArray\bin\Debug\imageToArray.pdb
+c:\users\monster\documents\visual studio 2017\Projects\imageToArray\imageToArray\obj\Debug\imageToArray.csprojResolveAssemblyReference.cache
+c:\users\monster\documents\visual studio 2017\Projects\imageToArray\imageToArray\obj\Debug\imageToArray.Form1.resources
+c:\users\monster\documents\visual studio 2017\Projects\imageToArray\imageToArray\obj\Debug\imageToArray.Properties.Resources.resources
+c:\users\monster\documents\visual studio 2017\Projects\imageToArray\imageToArray\obj\Debug\imageToArray.csproj.GenerateResource.Cache
+c:\users\monster\documents\visual studio 2017\Projects\imageToArray\imageToArray\obj\Debug\imageToArray.exe
+c:\users\monster\documents\visual studio 2017\Projects\imageToArray\imageToArray\obj\Debug\imageToArray.pdb
+c:\users\monster\documents\visual studio 2017\Projects\imageToArray\imageToArray\bin\Debug\ARGA.dll
+c:\users\monster\documents\visual studio 2017\Projects\imageToArray\imageToArray\bin\Debug\ARGA.pdb
+c:\users\monster\documents\visual studio 2017\Projects\imageToArray\imageToArray\bin\Debug\MetroFramework.Design.dll
+c:\users\monster\documents\visual studio 2017\Projects\imageToArray\imageToArray\bin\Debug\MetroFramework.dll
+c:\users\monster\documents\visual studio 2017\Projects\imageToArray\imageToArray\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MONSTER\Documents\Visual Studio 2017\Projects\imageToArray\imageToArray\obj\Debug\imageToArray.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Documents\Visual Studio 2017\Projects\imageToArray\imageToArray\obj\Debug\imageToArray.csproj.CopyComplete
